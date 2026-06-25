@@ -406,6 +406,57 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMCQUYXX
 
+[Document22]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document24]
+DocumentPath=..\..\05_SMT\Satellite_4U_Laser_Int_Ext_V11.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NASHTRMN
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Laser\Design Rule Check - Laser.html
 DItemRevisionGUID=
@@ -427,172 +478,288 @@ DocumentPath=Project Outputs for SpaceLiin_Satellite_4U_Laser_Internal_External_
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for Satellite_4U_Laser_Int_Ext_V100.csv
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Pick Place for Satellite_4U_Laser_Int_Ext_V11.csv
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for Satellite_4U_Laser_Int_Ext_V100.txt
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Pick Place for Satellite_4U_Laser_Int_Ext_V11.txt
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-BoardEdgeRout.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for Satellite_4U_Laser_Int_Ext_V100.csv
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Pick Place for Satellite_4U_Laser_Int_Ext_V100.txt
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles.TXT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.DRR
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.EXTREP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G2
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11.xls
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBL
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBO
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBS
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GD1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GG1
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GM
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPB
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPT
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTL
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTO
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V11_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTS
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.LDP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.REP
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.xls
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drawing_1.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drillmap_1.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L1_TOP.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G1
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L2_SIGNAL.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.G2
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L3_GND.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L4_BOT.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GM
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Top.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Profile.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument47]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.REP
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100.xls
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drawing_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Drillmap_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L1_TOP.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L2_SIGNAL.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L3_GND.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_L4_BOT.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument67]
 DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V100\Satellite_4U_Laser_Int_Ext_V100_Soldermask_Top.gbr
 DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V110_L1_TOP.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V110_L2_SIGNAL.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V110_L3_GND.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Satellite_4U_Laser_Int_Ext_V110\Satellite_4U_Laser_Int_Ext_V110_L4_BOT.gbr
+DItemRevisionGUID=
+
+[Parameter1]
+Name=ApprovedBy
+Value=Vu Pham
+
+[Parameter2]
+Name=Author
+Value=Duy Nguyen
+
+[Parameter3]
+Name=CheckedBy
+Value=Bao Bui
+
+[Parameter4]
+Name=Revision
+Value=1.1.0
+
+[Parameter5]
+Name=Sub-system
+Value=LDA
 
 [Configuration1]
 Name=Sources
@@ -815,106 +982,106 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Test Points For Assembly
-OutputName1=Test Point Report
+OutputType1=Assembly
+OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-OutputType2=Wire Bonding Table
-OutputName2=Wire Bonding Table Report
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=Assembly
-OutputName3=Assembly Drawings
+Configuration2_Name1=ForceUpdateSettings
+Configuration2_Item1=False
+Configuration2_Name2=OutputConfigurationParameter1
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#18=Name:Revision,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#19=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#20=Name:MPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#21=Name:Code - JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#22=Name:Solder,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#23=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#24=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#25=Name:MFR_URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#26=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#27=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#28=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#29=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#30=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#31=Name:PinCount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#32=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#33=Name:CompanyID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#34=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#35=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#36=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#37=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#38=Name:MFR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#39=Name:Published,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\Satellite_4U_Laser_Int_Ext_V11.PcbDoc
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType4=Pick Place
-OutputName4=Generates pick and place files
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-Configuration4_Name1=ForceUpdateSettings
-Configuration4_Item1=False
-Configuration4_Name2=OutputConfigurationParameter1
-Configuration4_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Purchase-URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#18=Name:Revision,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#19=Name:Check_prices,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#20=Name:MPN,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#21=Name:Code - JEDEC,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#22=Name:Solder,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#23=Name:LatestRevisionNote,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#24=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#25=Name:MFR_URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#26=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#27=Name:LatestRevisionDate,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#28=Name:PackageReference,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#29=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#30=Name:Publisher,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#31=Name:PinCount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#32=Name:SnapEDA_Link,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#33=Name:CompanyID,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#34=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#35=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#36=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#37=Name:Price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#38=Name:MFR,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#39=Name:Published,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
 
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CompositeDrill
-OutputName1=Composite Drill Drawing
+OutputType1=NC Drill
+OutputName1=NC Drill Files
 OutputDocumentPath1=
-OutputVariantName1=[No Variations]
+OutputVariantName1=
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=Drill
-OutputName2=Drill Drawing/Guides
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=True|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\Satellite_4U_Laser_Int_Ext_V11.PcbDoc
+OutputType2=Mask
+OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType3=Board Stack Report
-OutputName3=Report Board Stack
+OutputType3=IPC2581
+OutputName3=IPC-2581 Files
 OutputDocumentPath3=
-OutputVariantName3=
+OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration3_Name1=ForceUpdateSettings
-Configuration3_Item1=False
-Configuration3_Name2=OutputConfigurationParameter1
-Configuration3_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=20|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=LossTangent|Column5Title=Df|Column5Visible=True|Column6Name=CoverlayExpansion|Column6Title=Coverlay expansion|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=Material.Frequency|Column8Title=Frequency|Column8Visible=False|Column9Name=Material.Solid|Column9Title=Solid|Column9Visible=False|Column10Name=Material.GlassTransTemp|Column10Title=GlassTransTemp|Column10Visible=False|Column11Name=Material.Manufacturer|Column11Title=Manufacturer|Column11Visible=False|Column12Name=MaterialDescription|Column12Title=MaterialDescription|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=Process|Column16Title=Process|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
-OutputType4=Final
-OutputName4=Final Artwork Prints
+OutputType4=Test Points
+OutputName4=Test Point Report
 OutputDocumentPath4=
-OutputVariantName4=[No Variations]
+OutputVariantName4=
 OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType5=Gerber X2
-OutputName5=Gerber X2 Files
+OutputType5=Plane
+OutputName5=Power-Plane Prints
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
-OutputType7=Mask
-OutputName7=Solder/Paste Mask Prints
+OutputType7=Drill
+OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType8=NC Drill
-OutputName8=NC Drill Files
+OutputType8=CompositeDrill
+OutputName8=Composite Drill Drawing
 OutputDocumentPath8=
-OutputVariantName8=
+OutputVariantName8=[No Variations]
 OutputDefault8=0
-Configuration8_Name1=ForceUpdateSettings
-Configuration8_Item1=False
-Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=True|GenerateSeparateViaTypeFiles=True|GenerateToolsByDrillSymbols=False|NumberOfDecimals=2|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
-OutputType9=IPC2581
-OutputName9=IPC-2581 Files
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Board Stack Report
+OutputName9=Report Board Stack
 OutputDocumentPath9=
-OutputVariantName9=[No Variations]
+OutputVariantName9=
 OutputDefault9=0
-OutputType10=Plane
-OutputName10=Power-Plane Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration9_Name1=ForceUpdateSettings
+Configuration9_Item1=False
+Configuration9_Name2=OutputConfigurationParameter1
+Configuration9_Item2=Record=LayerStackReportView|Units=Metric|ColumnsCount=20|Column0Name=Name|Column0Title=Name|Column0Visible=True|Column1Name=Material|Column1Title=Material|Column1Visible=True|Column2Name=Thickness|Column2Title=Thickness|Column2Visible=True|Column3Name=Constant|Column3Title=Constant|Column3Visible=True|Column4Name=DielectricConstant|Column4Title=Dk|Column4Visible=True|Column5Name=LossTangent|Column5Title=Df|Column5Visible=True|Column6Name=CoverlayExpansion|Column6Title=Coverlay expansion|Column6Visible=False|Column7Name=Material.Color|Column7Title=Color|Column7Visible=False|Column8Name=Material.Frequency|Column8Title=Frequency|Column8Visible=False|Column9Name=Material.Solid|Column9Title=Solid|Column9Visible=False|Column10Name=Material.GlassTransTemp|Column10Title=GlassTransTemp|Column10Visible=False|Column11Name=Material.Manufacturer|Column11Title=Manufacturer|Column11Visible=False|Column12Name=MaterialDescription|Column12Title=MaterialDescription|Column12Visible=False|Column13Name=ComponentPlacement|Column13Title=Orientation|Column13Visible=False|Column14Name=CopperOrientation|Column14Title=Copper Orientation|Column14Visible=False|Column15Name=Weight|Column15Title=Weight|Column15Visible=False|Column16Name=Process|Column16Title=Process|Column16Visible=False|Column17Name=Material.Constructions|Column17Title=Constructions|Column17Visible=False|Column18Name=Material.Resin|Column18Title=Resin|Column18Visible=False|Column19Name=PullbackDistance|Column19Title=Pullback distance|Column19Visible=False|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\Satellite_4U_Laser_Int_Ext_V11.PcbDoc
+OutputType10=Gerber X2
+OutputName10=Gerber X2 Files
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=Test Points
-OutputName11=Test Point Report
+OutputType11=Final
+OutputName11=Final Artwork Prints
 OutputDocumentPath11=
-OutputVariantName11=
+OutputVariantName11=[No Variations]
 OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType12=Gerber
 OutputName12=Gerber Files
 OutputDocumentPath12=
@@ -923,7 +1090,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMCQUYXX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=Satellite_4U_Laser_Int_Ext_V100_L3_GND.gbr|UserLayerName.Caption1=Satellite_4U_Laser_Int_Ext_V100_L2_SIGNAL.gbr|UserLayerName.Caption2=Satellite_4U_Laser_Int_Ext_V100_L1_TOP.gbr|UserLayerName.Caption3=Satellite_4U_Laser_Int_Ext_V100_L4_BOT.gbr|UserLayerName.Count=4|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777218|UserLayerName.Layer2=16777217|UserLayerName.Layer3=16842751|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.0.0\Satellite_4U_Laser_Int_Ext_V100.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=UMCQUYXX|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|OutputFormat=Single|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973830~1,16973831~1,16973834~1,16973835~1,16973832~1,16973833~1,16973848~1,16973849~1|PlotBoardProfile=True|PlotBoardProfileFileName= |PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName= |PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName= |PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=Satellite_4U_Laser_Int_Ext_V110_L3_GND.gbr|UserLayerName.Caption1=Satellite_4U_Laser_Int_Ext_V110_L2_SIGNAL.gbr|UserLayerName.Caption2=Satellite_4U_Laser_Int_Ext_V110_L1_TOP.gbr|UserLayerName.Caption3=Satellite_4U_Laser_Int_Ext_V110_L4_BOT.gbr|UserLayerName.Count=4|UserLayerName.Layer0=16777219|UserLayerName.Layer1=16777218|UserLayerName.Layer2=16777217|UserLayerName.Layer3=16842751|DocumentPath=D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01_DESIGN\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\Satellite_4U_Laser_Int_Ext_V11.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
