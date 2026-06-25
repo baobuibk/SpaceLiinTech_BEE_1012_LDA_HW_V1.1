@@ -5,8 +5,8 @@ D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01
 File Design Information:
 
 Date:       25-06-26
-Time:       21:35
-Revision:   2944cf62b29d2f3ba344e92c5bae18f691c7240b
+Time:       22:57
+Revision:   3e1c7c4cad36d33c40a7284048e1c2c7817b9b4d
 Variant:    No variations
 Units used: mm
 
