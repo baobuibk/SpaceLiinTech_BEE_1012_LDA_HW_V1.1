@@ -4,9 +4,9 @@ D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01
 ========================================================================================================================
 File Design Information:
 
-Date:       25-06-26
-Time:       22:57
-Revision:   3e1c7c4cad36d33c40a7284048e1c2c7817b9b4d
+Date:       09-08-26
+Time:       20:43
+Revision:   e2c1a478090923eca5b9ca0813c39cf18c27b8af
 Variant:    No variations
 Units used: mm
 
@@ -41,9 +41,9 @@ Units used: mm
 "D36","1N4148W-TP","BottomLayer","SOD23","59.3050","69.6300","0","1N4148W-TP"
 "D37","1N4148W-TP","BottomLayer","SOD23","64.3350","64.8300","180","1N4148W-TP"
 "D43","1N4148W-TP","BottomLayer","SOD23","64.3350","31.8300","180","1N4148W-TP"
-"D33","1N4148W-TP","BottomLayer","SOD23","23.6440","34.0000","270","1N4148W-TP"
-"D13","1N4148W-TP","BottomLayer","SOD23","14.3140","66.5000","270","1N4148W-TP"
-"D30","1N4148W-TP","BottomLayer","SOD23","42.3040","34.0000","270","1N4148W-TP"
+"D33","1N4148W-TP","BottomLayer","SOD23","23.6440","34.0080","90","1N4148W-TP"
+"D13","1N4148W-TP","BottomLayer","SOD23","14.3140","66.5080","90","1N4148W-TP"
+"D30","1N4148W-TP","BottomLayer","SOD23","42.3040","34.0080","90","1N4148W-TP"
 "LD25","LaserDiode","TopLayer","RLD65NZX1","59.5200","32.3300","90","RLD65NZX1"
 "LD29","LaserDiode","TopLayer","RLD65NZX1","59.5200","54.3300","90","RLD65NZX1"
 "LD28","LaserDiode","TopLayer","RLD65NZX1","64.1200","48.1300","90","RLD65NZX1"
@@ -153,27 +153,27 @@ Units used: mm
 "D38","1N4148W-TP","BottomLayer","SOD23","59.3050","58.6300","0","1N4148W-TP"
 "D35","S2303","BottomLayer","SOT23-3-132","61.2460","9.9790","180","S2303"
 "D34","S2303","BottomLayer","SOT23-3-132","57.7130","9.9790","180","S2303"
-"D32","1N4148W-TP","BottomLayer","SOD23","32.9740","34.0000","270","1N4148W-TP"
-"D31","1N4148W-TP","BottomLayer","SOD23","14.3140","34.0000","270","1N4148W-TP"
-"D29","1N4148W-TP","BottomLayer","SOD23","14.3140","40.5000","270","1N4148W-TP"
-"D28","1N4148W-TP","BottomLayer","SOD23","23.6440","40.5000","270","1N4148W-TP"
-"D27","1N4148W-TP","BottomLayer","SOD23","32.9740","40.5000","270","1N4148W-TP"
-"D26","1N4148W-TP","BottomLayer","SOD23","42.3040","40.5000","270","1N4148W-TP"
-"D25","1N4148W-TP","BottomLayer","SOD23","23.6440","47.0000","270","1N4148W-TP"
-"D24","1N4148W-TP","BottomLayer","SOD23","32.9740","47.0000","270","1N4148W-TP"
-"D23","1N4148W-TP","BottomLayer","SOD23","14.3140","47.0000","270","1N4148W-TP"
-"D22","1N4148W-TP","BottomLayer","SOD23","42.3040","47.0000","270","1N4148W-TP"
-"D21","1N4148W-TP","BottomLayer","SOD23","14.3140","53.5000","270","1N4148W-TP"
-"D20","1N4148W-TP","BottomLayer","SOD23","23.6440","53.5000","270","1N4148W-TP"
-"D19","1N4148W-TP","BottomLayer","SOD23","32.9740","53.5000","270","1N4148W-TP"
-"D18","1N4148W-TP","BottomLayer","SOD23","42.3040","53.5000","270","1N4148W-TP"
-"D17","1N4148W-TP","BottomLayer","SOD23","23.6440","60.0000","270","1N4148W-TP"
-"D16","1N4148W-TP","BottomLayer","SOD23","32.9740","60.0000","270","1N4148W-TP"
-"D15","1N4148W-TP","BottomLayer","SOD23","14.3140","60.0000","270","1N4148W-TP"
-"D14","1N4148W-TP","BottomLayer","SOD23","42.3040","60.0000","270","1N4148W-TP"
-"D12","1N4148W-TP","BottomLayer","SOD23","23.6440","66.5000","270","1N4148W-TP"
-"D11","1N4148W-TP","BottomLayer","SOD23","32.9740","66.5000","270","1N4148W-TP"
-"D10","1N4148W-TP","BottomLayer","SOD23","42.3040","66.5000","270","1N4148W-TP"
+"D32","1N4148W-TP","BottomLayer","SOD23","32.9740","34.0080","90","1N4148W-TP"
+"D31","1N4148W-TP","BottomLayer","SOD23","14.3140","34.0080","90","1N4148W-TP"
+"D29","1N4148W-TP","BottomLayer","SOD23","14.3140","40.5080","90","1N4148W-TP"
+"D28","1N4148W-TP","BottomLayer","SOD23","23.6440","40.5080","90","1N4148W-TP"
+"D27","1N4148W-TP","BottomLayer","SOD23","32.9740","40.5080","90","1N4148W-TP"
+"D26","1N4148W-TP","BottomLayer","SOD23","42.3040","40.5080","90","1N4148W-TP"
+"D25","1N4148W-TP","BottomLayer","SOD23","23.6440","47.0080","90","1N4148W-TP"
+"D24","1N4148W-TP","BottomLayer","SOD23","32.9740","47.0080","90","1N4148W-TP"
+"D23","1N4148W-TP","BottomLayer","SOD23","14.3140","47.0080","90","1N4148W-TP"
+"D22","1N4148W-TP","BottomLayer","SOD23","42.3040","47.0080","90","1N4148W-TP"
+"D21","1N4148W-TP","BottomLayer","SOD23","14.3140","53.5080","90","1N4148W-TP"
+"D20","1N4148W-TP","BottomLayer","SOD23","23.6440","53.5080","90","1N4148W-TP"
+"D19","1N4148W-TP","BottomLayer","SOD23","32.9740","53.5080","90","1N4148W-TP"
+"D18","1N4148W-TP","BottomLayer","SOD23","42.3040","53.5080","90","1N4148W-TP"
+"D17","1N4148W-TP","BottomLayer","SOD23","23.6440","60.0080","90","1N4148W-TP"
+"D16","1N4148W-TP","BottomLayer","SOD23","32.9740","60.0080","90","1N4148W-TP"
+"D15","1N4148W-TP","BottomLayer","SOD23","14.3140","60.0080","90","1N4148W-TP"
+"D14","1N4148W-TP","BottomLayer","SOD23","42.3040","60.0080","90","1N4148W-TP"
+"D12","1N4148W-TP","BottomLayer","SOD23","23.6440","66.5080","90","1N4148W-TP"
+"D11","1N4148W-TP","BottomLayer","SOD23","32.9740","66.5080","90","1N4148W-TP"
+"D10","1N4148W-TP","BottomLayer","SOD23","42.3040","66.5080","90","1N4148W-TP"
 "D9","S2303","BottomLayer","SOT23-3-132","54.1800","9.9790","180","S2303"
 "D8","S2303","BottomLayer","SOT23-3-132","71.6216","28.8478","270","S2303"
 "D7","S2303","BottomLayer","SOT23-3-132","71.6216","25.4003","270","S2303"
