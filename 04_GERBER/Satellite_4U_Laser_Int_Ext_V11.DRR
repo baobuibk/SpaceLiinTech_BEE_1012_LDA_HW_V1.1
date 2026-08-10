@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V11.PcbDoc   09-Aug-26  8:27:43 PM
+NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V11.PcbDoc   10-Aug-26  4:50:46 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L4_BOT
@@ -9,7 +9,7 @@ ASCII Plated SlotHoles File : Satellite_4U_Laser_Int_Ext_V11-SlotHoles-Plated.TX
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.2mm (8mil)                                              Round             8         PTH        9.10mm (0.36inch)
-T2      0.3mm (12mil)                                             Round             604       PTH        1418.41mm (55.84inch)
+T2      0.3mm (12mil)                                             Round             604       PTH        1427.39mm (56.20inch)
 T3      0.5mm (20mil)                                             Round             16        PTH        64.56mm (2.54inch)
 T4      0.5mm (20mil)                                             Slot              72        PTH        707.87mm (27.87inch)
 T5      0.7mm (28mil)                                             Round             30        PTH        97.40mm (3.83inch)
