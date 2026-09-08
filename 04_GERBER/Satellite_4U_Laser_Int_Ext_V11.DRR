@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V11.PcbDoc   11-Aug-26  6:36:35 PM
+NCDrill File Report For: Satellite_4U_Laser_Int_Ext_V11.PcbDoc   08-Sep-26  4:31:55 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : L1_TOP to L4_BOT
@@ -9,12 +9,12 @@ ASCII Plated SlotHoles File : Satellite_4U_Laser_Int_Ext_V11-SlotHoles-Plated.TX
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.2mm (8mil)                                              Round             8         PTH        9.10mm (0.36inch)
-T2      0.3mm (12mil)                                             Round             605       PTH        1386.73mm (54.60inch)
+T2      0.3mm (12mil)                                             Round             592       PTH        1351.96mm (53.23inch)
 T3      0.5mm (20mil)                                             Round             16        PTH        64.56mm (2.54inch)
 T4      0.5mm (20mil)                                             Slot              72        PTH        707.87mm (27.87inch)
-T5      0.7mm (28mil)                                             Round             30        PTH        97.40mm (3.83inch)
+T5      0.7mm (28mil)                                             Round             30        PTH        99.46mm (3.92inch)
 T6      3.2mm (126mil)                                            Round             8         PTH        258.50mm (10.18inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              739
+Totals                                                                              726
 
 Total Processing Time (hh:mm:ss) : 00:00:00
