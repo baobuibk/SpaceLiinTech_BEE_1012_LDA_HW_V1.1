@@ -4,9 +4,9 @@ D:\payload_satellite\hw\SpaceLiin_Satellite_4U_Laser_Internal_External_V1.1.0\01
 ========================================================================================================================
 File Design Information:
 
-Date:       11-08-26
-Time:       18:45
-Revision:   cfbf6caf91a756058a775e516fb2a50a1abe9986
+Date:       08-09-26
+Time:       16:38
+Revision:   c4fc4ebc3678a3173ee38f74132f4c3398db1c21
 Variant:    No variations
 Units used: mm
 
@@ -20,7 +20,6 @@ Units used: mm
 "R49","10R/1%","BottomLayer","RES_SMD_0603_SHUNT","43.2719","11.6953","90","RT0603BRD077R5L"
 "R48","40.2R/1%","BottomLayer","RES_SMD_0603_SHUNT","43.2719","22.0490","90","RN73R1JTTD30R0B25"
 "J1","0532611171","BottomLayer","MOLEX_0532611171","76.6500","23.7500","270",""
-"TP5","","BottomLayer","Testpoint_80","58.9000","19.0000","90","Test Point"
 "R6","51R/1%","BottomLayer","RES_SMD_0603_SHUNT","43.2719","25.5002","90","RN73R1JTTD30R0B25"
 "R26","1k","BottomLayer","RES_C_1608X60","26.1930","13.9640","270","RES"
 "R25","1k","BottomLayer","RES_C_1608X60","26.1392","26.2547","270","RES"
@@ -77,14 +76,9 @@ Units used: mm
 "TP15","","BottomLayer","Testpoint_80","46.7000","6.1392","90","Test Point"
 "TP14","","BottomLayer","Testpoint_80","58.2500","51.9000","90","Test Point"
 "TP13","","BottomLayer","Testpoint_80","73.3000","32.8000","90","Test Point"
-"TP11","","BottomLayer","Testpoint_80","62.7000","11.9000","90","Test Point"
-"TP10","","BottomLayer","Testpoint_80","67.2000","11.4000","90","Test Point"
 "TP9","","BottomLayer","Testpoint_80","68.9000","66.6000","180","Test Point"
 "TP8","","BottomLayer","Testpoint_80","79.5000","66.1000","180","Test Point"
 "TP7","","BottomLayer","Testpoint_80","68.9000","63.4000","180","Test Point"
-"TP4","","BottomLayer","Testpoint_80","62.7000","19.0000","90","Test Point"
-"TP3","","BottomLayer","Testpoint_80","64.0000","19.0000","90","Test Point"
-"TP2","","BottomLayer","Testpoint_80","65.2000","19.0000","90","Test Point"
 "TP1","","BottomLayer","Testpoint_80","19.6000","2.6000","180","Test Point"
 "R44","4.7k","BottomLayer","RES_C_1608X60","45.9740","29.5910","180","RES"
 "R43","4.7k","BottomLayer","RES_C_1608X60","48.9840","29.5910","180","RES"
@@ -117,8 +111,8 @@ Units used: mm
 "R3","221R/1%","BottomLayer","RES_SMD_0603_SHUNT","43.2719","18.5978","90","RN73R1JTTD30R0B25"
 "R2","10k","BottomLayer","RES_C_1005X40","4.1000","21.4000","180","RES"
 "R1","1k","BottomLayer","RES_C_1005X40","35.5000","4.3900","0","RES"
-"Q2","AO3401","BottomLayer","SOT23-3-132","38.7660","15.7420","270","AO3401"
-"Q1","AO3401","BottomLayer","SOT23-3-132","38.7122","28.4136","270","AO3401"
+"Q2","DMP3098L-7","BottomLayer","SOT23-3-132","38.7660","15.7420","270","DMP3098L-7"
+"Q1","DMP3098L-7","BottomLayer","SOT23-3-132","38.7122","28.4136","270","DMP3098L-7"
 "LD13","LaserDiode","TopLayer","OPV302","19.8300","34.0000","0","OPV302"
 "LD7","LaserDiode","TopLayer","OPV302","29.1600","34.0000","0","OPV302"
 "LD19","LaserDiode","TopLayer","OPV302","10.5000","34.0000","0","OPV302"
